@@ -3,6 +3,4 @@
 @tailwind components;
 @tailwind utilities;
 
-.sibtn{
-    @apply rounded py-2 px-3 font-bold cursor-pointer border-solid border-light-white-500 rounded;
-}
+
